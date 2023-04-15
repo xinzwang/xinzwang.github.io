@@ -1,0 +1,1 @@
+import{_ as t,W as a,X as c,Z as e,$ as r}from"./framework-a4c02b8f.js";const s={},o=e("h1",{id:"盲超分1",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#盲超分1","aria-hidden":"true"},"#"),r(" 盲超分1")],-1),_=[o];function n(d,i){return a(),c("div",null,_)}const l=t(s,[["render",n],["__file","1.html.vue"]]);export{l as default};

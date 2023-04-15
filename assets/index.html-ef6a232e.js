@@ -1,0 +1,1 @@
+import{_ as e,W as t,X as n,Z as o}from"./framework-a4c02b8f.js";const _={},c=o("p",null,"本节包含Python深度学习和科学计算相关环境和常用包的安装与配置",-1),s=[c];function r(a,l){return t(),n("div",null,s)}const i=e(_,[["render",r],["__file","index.html.vue"]]);export{i as default};
